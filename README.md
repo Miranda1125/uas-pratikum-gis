@@ -1,0 +1,2 @@
+# uas-pratikum-gis
+koperasi
